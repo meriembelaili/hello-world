@@ -1,2 +1,8 @@
 # hello-world
-this is the first repository in my account
+
+Hello All, 
+
+My  objective is to try my best with this tool . Wish me luck. 
+I like .Net more than Java, and I want to learn Javascript. 
+
+With love
